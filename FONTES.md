@@ -15,7 +15,7 @@
 > como fonte declarada.
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
-| --- | --- | --- | --- |
+| --- | https://claude.ai/share/cb4a87b5-4bdf-4d6b-8866-b1f8b28b97d6 | Foi consultado a prova 01 | aparece na ajuda de entendimento da prova|
 | — | | | |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
